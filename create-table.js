@@ -1,4 +1,4 @@
-import { sql } from "../node-do-zero/db.js";
+import { sql } from "../db.js";
 
 // sql`DROP TABLE IF EXISTS videos;`.then(() => {
 //   console.log('Tabela apagada com sucesso!')
